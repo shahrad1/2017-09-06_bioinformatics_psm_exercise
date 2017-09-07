@@ -1,2 +1,2 @@
-# 2017-09-06_bioinformatics_psm_exercise
+# September 6, 2017 Demo Repository for USF PSM bioinformatics class 
 Demo Repository for USF 
